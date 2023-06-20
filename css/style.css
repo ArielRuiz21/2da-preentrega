@@ -1,0 +1,69 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.logo{
+    width: 90px;
+    height: 80px;
+    margin-right: 4rem;
+
+}
+.img-inicio{
+    width: 200px;
+    height: 500px;
+  
+}
+
+     
+.navbar-mio{
+    background-color: #2D292A!important;
+}
+
+.navbar-toggler-mio{
+     background-color: white!important;
+}
+
+.nav-link{
+    color: white!important;
+
+}
+
+.color-fondo{
+    background-color:#2D292A
+}
+.titulo{
+    text-align: center;
+}
+.footer-mio{
+    background-color: #2D292A;
+}
+
+.ul-mio{
+    color:white!important;
+}
+
+.acomodar-img{
+    width: 650px;
+    height: 395px;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,400;1,500;1,700&display=swap');
+
+h1{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+.bordes {
+    border-bottom: 1px solid black;
+    border-top: 1px solid black;
+   
+}
+
